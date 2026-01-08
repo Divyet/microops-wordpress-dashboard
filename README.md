@@ -18,7 +18,6 @@ Due to WordPress.com free plan limitations, custom post types and server-side co
 - Categories represent task status and priority
 - Pages are used for fixed system sections
 
-This approach demonstrates constraint-aware system design.
 
 ## Skills Demonstrated
 - WordPress content modeling
